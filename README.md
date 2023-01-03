@@ -1,9 +1,8 @@
 <h2 align:center> Hi there 👋 </h2>
-<h3>It's XII, your twelfth, Ti and noon or midnight...</h3>
 
 <div align="center" >
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusooo)](https://github.com/yusooo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12xii)](https://github.com/12xii/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=12_xii)](https://solved.ac/12_xii) <a margin-right=30px/> 
   ## <b> 📞Contact Me✉ </b>
