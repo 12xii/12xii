@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12xii)](https://github.com/12xii/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=12_xii)](https://solved.ac/12_xii) <a margin-right=30px/> 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xiiLang)](https://solved.ac/xiiLang) <a margin-right=30px/> 
   ## <b> 📞Contact Me✉ </b>
   
 <a href=https://www.instagram.com/ur12xii/><img src="https://img.shields.io/badge/Insta-E4405F?style=square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/ur12xii@gmail.com-EA4335?style=square&logo=Gmail&logoColor=white"/> <a href="www.linkedin.com/in/yus0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
