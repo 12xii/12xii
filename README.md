@@ -6,11 +6,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=12xii&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
-</div>
+<img src="Logo_png.png" width=175 style="margin-bottom:35px; margin-right: 10px"></img>
+[![12xii's GitHub stats](https://github-readme-stats.vercel.app/api?username=12xii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="right">
-  
-![12xii's GitHub stats](https://github-readme-stats.vercel.app/api?username=12xii&show_icons=true&theme=tokyonight)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=12xii&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=12xii)
+<img src="face_wink.png" width=100 style="margin-bottom:25px; margin-left: 25px"></img>
 
 </div>
 
